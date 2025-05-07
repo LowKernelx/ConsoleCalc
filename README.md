@@ -27,10 +27,6 @@ number2 clac: 4
 60
 ⚙️ How to Compile
 ```bash
-Make sure you have g++ installed.
 
-bash
-Copy
-Edit
 g++ -o ConsoleCalc ConsoleCalc.cpp
 ./ConsoleCalc
