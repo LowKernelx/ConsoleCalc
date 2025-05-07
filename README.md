@@ -14,7 +14,7 @@ ConsoleCalc is a lightweight command-line calculator that supports basic arithme
 
 ## 🧪 Demo
 
-```bash
+
 number clac: 15
 number2 clac: 4
 
@@ -26,6 +26,7 @@ number2 clac: 4
 2
 60
 ⚙️ How to Compile
+```bash
 Make sure you have g++ installed.
 
 bash
